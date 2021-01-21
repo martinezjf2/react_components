@@ -5,6 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "dbr": "6.4.0",
     "react": "16.11.0",
     "react-dom": "16.11.0"
   },
